@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(Februrary 2, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Thomas Pescatore)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is helping me get used to the basics of using git and bootstrap.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Git is a virtual control system. )
+2. (Version Control Systems allow users to track file changes. They are very useful for writers, designers, and developers.)
+3. (A local repository is the Repository that resides on a local machine of an individual users.)
